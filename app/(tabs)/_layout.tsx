@@ -18,7 +18,7 @@ export default function TabLayout() {
   //         }}
   //         />
   //    ) 
-  //  }}
+  //  }
    />
         <Tabs.Screen name='Explore'/>
         <Tabs.Screen name='Cookbook'/>
